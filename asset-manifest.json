@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/React-Movie/static/css/main.cc979ce8.css",
-    "main.js": "/React-Movie/static/js/main.f9deb645.js",
+    "main.js": "/React-Movie/static/js/main.9f87202f.js",
     "static/media/CarterOne-Regular.ttf": "/React-Movie/static/media/CarterOne-Regular.077c4bbc891d504d9751.ttf",
     "static/media/logo.png": "/React-Movie/static/media/logo.922fab711e70168781c0.png",
     "index.html": "/React-Movie/index.html",
     "main.cc979ce8.css.map": "/React-Movie/static/css/main.cc979ce8.css.map",
-    "main.f9deb645.js.map": "/React-Movie/static/js/main.f9deb645.js.map"
+    "main.9f87202f.js.map": "/React-Movie/static/js/main.9f87202f.js.map"
   },
   "entrypoints": [
     "static/css/main.cc979ce8.css",
-    "static/js/main.f9deb645.js"
+    "static/js/main.9f87202f.js"
   ]
 }
